@@ -2,9 +2,9 @@
  "board": "feedback",
  "stage": 1,
  "unit": "M",
- "asof": "2026-11-20",
- "generated": "2026-11-20 13:09:35",
- "source": "발주관리(2026) 08/19 · 재고 11/19 · 매출 DB 11/20 13:06",
+ "asof": "2026-11-23",
+ "generated": "2026-11-23 10:14:09",
+ "source": "발주관리(2026) 08/19 · 재고 11/22 · 매출 DB 11/23 10:10",
  "key": [
   {
    "name": "26SS 여성 매입 달성",
@@ -22,16 +22,16 @@
  "blocked": [
   {
    "what": "26SS 여성 — 계획 범위(픽스만? 1~8월?) 확인 필요",
-   "size": 4992,
+   "size": 4995,
    "unit": "M",
-   "size_text": "4,992M",
+   "size_text": "4,995M",
    "deadline": null
   },
   {
    "what": "26SS 아동 — 계획 없음",
-   "size": 3218,
+   "size": 3219,
    "unit": "M",
-   "size_text": "3,218M",
+   "size_text": "3,219M",
    "deadline": null
   },
   {
